@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @anilrasani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋 I'm Anilkumar
 
-<!---
-anilrasani/anilrasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MCA Graduate | 📊 Aspiring Data Analyst  
+🔍 Exploring Python, SQL, Power BI, and Data Science
+
+## 🚀 Projects
+- 🔢 [FinLang – Empowering Financial Insights](https://github.com/anilrasani/Finlang)
+- 💰 Budget Tracker
+- 📈 Crypto Market Live Tracker
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, T-SQL  
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib  
+- **Tools:** Excel, Power BI, Git, GitHub
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/anilrasani)
