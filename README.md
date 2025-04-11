@@ -4,9 +4,6 @@
 🔍 Exploring Python, SQL, Power BI, and Data Science
 
 ## 🚀 Projects
-- 🔢 [FinLang – Empowering Financial Insights](https://github.com/anilrasani/Finlang)
-- 💰 Budget Tracker
-- 📈 Crypto Market Live Tracker
 
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL, T-SQL  
